@@ -1,0 +1,207 @@
+$date
+	Sun Jun 01 19:42:30 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module controller_tb $end
+$var wire 7 ! res [6:0] $end
+$var wire 1 " op $end
+$var wire 7 # b [6:0] $end
+$var wire 7 $ a [6:0] $end
+$var wire 1 % GZ $end
+$var wire 1 & CF $end
+$var reg 1 ' clk $end
+$var reg 1 ( rst $end
+$scope module uut $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var wire 7 ) res [6:0] $end
+$var wire 1 % GZ $end
+$var wire 1 & CF $end
+$var parameter 3 * finish $end
+$var parameter 3 + one $end
+$var parameter 3 , start $end
+$var parameter 3 - three $end
+$var parameter 3 . two $end
+$var reg 7 / a [6:0] $end
+$var reg 7 0 b [6:0] $end
+$var reg 3 1 current_state [2:0] $end
+$var reg 3 2 next_state [2:0] $end
+$var reg 1 " op $end
+$scope module uut0 $end
+$var wire 7 3 a [6:0] $end
+$var wire 7 4 b [6:0] $end
+$var wire 1 " op $end
+$var wire 1 5 carry $end
+$var wire 7 6 and_res [6:0] $end
+$var wire 7 7 add_res [6:0] $end
+$var wire 1 % GZ $end
+$var wire 1 & CF $end
+$var reg 7 8 res [6:0] $end
+$scope module uut0 $end
+$var wire 7 9 a [6:0] $end
+$var wire 7 : b [6:0] $end
+$var reg 7 ; result [6:0] $end
+$upscope $end
+$scope module uut1 $end
+$var wire 7 < a [6:0] $end
+$var wire 7 = b [6:0] $end
+$var reg 1 5 carry $end
+$var reg 7 > sum [6:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10 .
+b11 -
+b0 ,
+b1 +
+b100 *
+$end
+#0
+$dumpvars
+bx >
+bx =
+bx <
+bx ;
+bx :
+bx 9
+bx 8
+bx 7
+bx 6
+x5
+bx 4
+bx 3
+bx 2
+bx 1
+bx 0
+bx /
+bx )
+0(
+0'
+x&
+x%
+bx $
+bx #
+x"
+bx !
+$end
+#10
+0%
+0&
+b0 !
+b0 )
+b0 8
+05
+b0 7
+b0 >
+b0 6
+b0 ;
+b1 2
+0"
+b0 #
+b0 0
+b0 4
+b0 :
+b0 =
+b0 $
+b0 /
+b0 3
+b0 9
+b0 <
+b0 1
+1(
+1'
+#20
+0(
+0'
+#30
+b1111111 7
+b1111111 >
+b10 2
+b1111111 #
+b1111111 0
+b1111111 4
+b1111111 :
+b1111111 =
+b1 1
+1'
+#40
+0'
+#50
+1&
+1%
+b1101100 !
+b1101100 )
+b1101100 8
+15
+b1101100 7
+b1101100 >
+b1101101 6
+b1101101 ;
+b11 2
+1"
+b1101101 $
+b1101101 /
+b1101101 3
+b1101101 9
+b1101101 <
+b10 1
+1'
+#60
+0'
+#70
+0&
+b100100 !
+b100100 )
+b100100 8
+b100100 6
+b100100 ;
+b10011 7
+b10011 >
+b100 2
+0"
+b100110 #
+b100110 0
+b100110 4
+b100110 :
+b100110 =
+b11 1
+1'
+#80
+0'
+#90
+0%
+b0 !
+b0 )
+b0 8
+05
+b0 7
+b0 >
+b0 6
+b0 ;
+b0 #
+b0 0
+b0 4
+b0 :
+b0 =
+b0 $
+b0 /
+b0 3
+b0 9
+b0 <
+b100 1
+1'
+#100
+0'
+#110
+1'
+#120
+0'

@@ -1,0 +1,207 @@
+$date
+	Sun Jun 01 19:48:40 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Top_tb $end
+$var wire 7 ! res [6:0] $end
+$var wire 1 " GZ $end
+$var wire 1 # CF $end
+$var reg 1 $ clk $end
+$var reg 1 % rst $end
+$scope module uut0 $end
+$var wire 1 $ clk $end
+$var wire 1 % rst $end
+$var wire 7 & res [6:0] $end
+$var wire 1 " GZ $end
+$var wire 1 # CF $end
+$scope module uut0 $end
+$var wire 1 $ clk $end
+$var wire 1 % rst $end
+$var wire 7 ' res [6:0] $end
+$var wire 1 " GZ $end
+$var wire 1 # CF $end
+$var parameter 3 ( finish $end
+$var parameter 3 ) one $end
+$var parameter 3 * start $end
+$var parameter 3 + three $end
+$var parameter 3 , two $end
+$var reg 7 - a [6:0] $end
+$var reg 7 . b [6:0] $end
+$var reg 3 / current_state [2:0] $end
+$var reg 3 0 next_state [2:0] $end
+$var reg 1 1 op $end
+$scope module uut0 $end
+$var wire 7 2 a [6:0] $end
+$var wire 7 3 b [6:0] $end
+$var wire 1 1 op $end
+$var wire 1 4 carry $end
+$var wire 7 5 and_res [6:0] $end
+$var wire 7 6 add_res [6:0] $end
+$var wire 1 " GZ $end
+$var wire 1 # CF $end
+$var reg 7 7 res [6:0] $end
+$scope module uut0 $end
+$var wire 7 8 a [6:0] $end
+$var wire 7 9 b [6:0] $end
+$var reg 7 : result [6:0] $end
+$upscope $end
+$scope module uut1 $end
+$var wire 7 ; a [6:0] $end
+$var wire 7 < b [6:0] $end
+$var reg 1 4 carry $end
+$var reg 7 = sum [6:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b10 ,
+b11 +
+b0 *
+b1 )
+b100 (
+$end
+#0
+$dumpvars
+bx =
+bx <
+bx ;
+bx :
+bx 9
+bx 8
+bx 7
+bx 6
+bx 5
+x4
+bx 3
+bx 2
+x1
+bx 0
+bx /
+bx .
+bx -
+bx '
+bx &
+0%
+0$
+x#
+x"
+bx !
+$end
+#10
+0"
+0#
+b0 !
+b0 &
+b0 '
+b0 7
+04
+b0 6
+b0 =
+b0 5
+b0 :
+b1 0
+01
+b0 .
+b0 3
+b0 9
+b0 <
+b0 -
+b0 2
+b0 8
+b0 ;
+b0 /
+1%
+1$
+#20
+0%
+0$
+#30
+b1111111 6
+b1111111 =
+b10 0
+b1111111 .
+b1111111 3
+b1111111 9
+b1111111 <
+b1 /
+1$
+#40
+0$
+#50
+1#
+1"
+b1101100 !
+b1101100 &
+b1101100 '
+b1101100 7
+14
+b1101100 6
+b1101100 =
+b1101101 5
+b1101101 :
+b11 0
+11
+b1101101 -
+b1101101 2
+b1101101 8
+b1101101 ;
+b10 /
+1$
+#60
+0$
+#70
+0#
+b100100 !
+b100100 &
+b100100 '
+b100100 7
+b100100 5
+b100100 :
+b10011 6
+b10011 =
+b100 0
+01
+b100110 .
+b100110 3
+b100110 9
+b100110 <
+b11 /
+1$
+#80
+0$
+#90
+0"
+b0 !
+b0 &
+b0 '
+b0 7
+04
+b0 6
+b0 =
+b0 5
+b0 :
+b0 .
+b0 3
+b0 9
+b0 <
+b0 -
+b0 2
+b0 8
+b0 ;
+b100 /
+1$
+#100
+0$
+#110
+1$
+#120
+0$
